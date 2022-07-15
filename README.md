@@ -1,1 +1,1 @@
-# GUI-based-Scientific-Calculator
+#School Management System
